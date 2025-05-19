@@ -1,5 +1,6 @@
 # LLM System Prompts Analysis
 FONT: https://github.com/asgeirtj/system_prompts_leaks/
+EN_US version: https://rentry.org/es2c7imh
 
 ## Overview
 
